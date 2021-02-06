@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65c261e3023c8ce48a9f4746d6d5f0e4, type: 3}
+  m_Name: Goblin
+  m_EditorClassIdentifier: 
+  userName: Goblin
+  startingMaxHealth: 3
+  startingDeckPrefabs:
+  - {fileID: 3312592259727849045, guid: 833ed736ef2c4eb43b307a1260a66e22, type: 3}
+  - {fileID: 1347612519205489061, guid: c4fa7f1f65bd1b7489fce3425d71952b, type: 3}
+  cardReward: {fileID: 0}

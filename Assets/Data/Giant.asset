@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65c261e3023c8ce48a9f4746d6d5f0e4, type: 3}
+  m_Name: Giant
+  m_EditorClassIdentifier: 
+  userName: Giant
+  startingMaxHealth: 12
+  startingDeckPrefabs:
+  - {fileID: 3312592259727849045, guid: 833ed736ef2c4eb43b307a1260a66e22, type: 3}
+  - {fileID: 3312592259727849045, guid: 833ed736ef2c4eb43b307a1260a66e22, type: 3}
+  - {fileID: 9132184018444753522, guid: 0cf5cc4cf83c2894c8ebf2e972174a1f, type: 3}
+  - {fileID: 2612209084249542499, guid: bdba3becb3c0674489653fc2d7cd0cd2, type: 3}
+  - {fileID: 6370631885110966779, guid: 3f8aef985ec60984db8ea212d5f7d1b5, type: 3}
+  - {fileID: 1347612519205489061, guid: c4fa7f1f65bd1b7489fce3425d71952b, type: 3}
+  cardReward: {fileID: 0}

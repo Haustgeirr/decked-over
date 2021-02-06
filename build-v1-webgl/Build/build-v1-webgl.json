@@ -1,0 +1,16 @@
+{
+"companyName": "Haustgeirr",
+"productName": "Decked Over",
+"productVersion": "1",
+"dataUrl": "build-v1-webgl.data.unityweb",
+"wasmCodeUrl": "build-v1-webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "build-v1-webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
